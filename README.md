@@ -89,8 +89,8 @@ in the tsconfig.json file add
 > yarn add -D eslint-config-prettier
 
 **inside .eslintrc.json change tha line**
-  
- "extends": [
+
+"extends": [
 "eslint:recommended",
 "plugin:@typescript-eslint/recommended",
 "prettier"
